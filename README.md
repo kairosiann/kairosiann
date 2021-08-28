@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! I'm Ryan K 👋
 
 <!--
 **kairosiann/kairosiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
