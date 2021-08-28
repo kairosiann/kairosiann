@@ -6,7 +6,6 @@ This Github is mainly for me store and share some of the CS & Robotics projects 
 Specifically, there are two award-winning research projects I've worked, for which the code is available here. They are:     
 - _Development of an autonomously navigating robot capable of conversing and scanning body temperature to help screen for COVID-19._ [Github Repo](https://github.com/kairosiann/covid19_robot_project) [Full Paper] ()    
 - _JARVITS: A Novel Deep Learning IoT Traffic Control System for Efficient Real-time Detection and Control._ [Github Repo](https://github.com/kairosiann/jarvits( [Full Paper]    
-- 😄 Pronouns:he/him    
 
 <!--
 **kairosiann/kairosiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
