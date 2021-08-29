@@ -7,7 +7,7 @@ This Github is mainly for me store and share some of the CS & Robotics projects 
 - _Development of an autonomously navigating robot capable of conversing and scanning body temperature to help screen for COVID-19._ [[Github Repo]](https://github.com/kairosiann/covid19_robot_project) [Full Paper]     
 - _JARVITS: A Novel Deep Learning IoT Traffic Control System for Efficient Real-time Detection and Control._ [[Github Repo]](https://github.com/kairosiann/jarvits) [Full Paper]     
     
-👯 Besides that, the [omo_r1] (https://github.com/kairosiann/omo_r1) repository shows some of the intern work I conducted at Omorobot.       
+👯 Besides that, the [omo_r1](https://github.com/kairosiann/omo_r1) repository shows some of the intern work I conducted at Omorobot.       
     
 📫 Contact me at: kairosiann@gmail.com!
 <!--
