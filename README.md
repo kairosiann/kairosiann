@@ -1,13 +1,14 @@
 ### Hey there! I'm Ryan Kim 👋
 
-Hi! My name is Ryan Kim, I'm currently a junior at Choate Rosemary Hall.    
+Hi! My name is Ryan Kim, I'm currently a senior at Choate Rosemary Hall.    
 This Github is mainly for me store and share some of the CS & Robotics projects I've done over the years.    
     
 🔭 Specifically, there are two award-winning research projects I've worked, for which the code is available here. They are:     
 - _Development of an autonomously navigating robot capable of conversing and scanning body temperature to help screen for COVID-19._ [[Github Repo]](https://github.com/kairosiann/covid19_robot_project) [Full Paper]     
 - _JARVITS: A Novel Deep Learning IoT Traffic Control System for Efficient Real-time Detection and Control._ [[Github Repo]](https://github.com/kairosiann/jarvits) [Full Paper]     
     
-👯 Besides that, the [omo_r1](https://github.com/kairosiann/omo_r1) repository shows some of the intern work I conducted at Omorobot.       
+👯 This past summer (summer 2022), I interned at the Yale Interactive Machines Group, you can see some of my work [here](https://gitlab.com/interactive-machines).  
+👯 Besides that, the [omo_r1](https://github.com/kairosiann/omo_r1) repository shows some of the intern work I conducted at Omorobot.    
     
 📫 Contact me at: kairosiann@gmail.com!
 <!--
