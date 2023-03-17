@@ -1,6 +1,6 @@
-### Hi! Welcome to my little corner of Github, I'm Ryan Hwang Kim 👋
+### Hi! I'm Ryan Hwang Kim 👋
 
-Hi! My name is Ryan Hwang Kim, I'm currently a senior at Choate Rosemary Hall.    
+Welcome to my little corner of Github!    
 
 This Github is mainly for me store and share some of the CS & Robotics projects I've done over the years.    
     
