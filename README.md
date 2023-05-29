@@ -21,9 +21,11 @@ This Github is mainly for me store and share some of the CS & Robotics projects 
         - 2023 Regeneron (formerly Intel, Westinghouse) Science Talent Search (STS) Scholar 
         - Best Poster at 2022 Stanford Research Conference.    
     
-👯 Internship Experiences:
+👯 Internship Experiences:    
+- Summer 2023: Internship at the Vision Lab at Yale University.    
+    - Studied computer vision with Prof. Alex Wong.    
 - Summer 2022: Internship at the [Interactive Machines Group](https://interactive-machines.gitlab.io) at Yale University.    
-    - Studied human-robot interaction and implicit feedback with a social robot photographer under Dr. Marynel V&#0301zquez.    
+    - Studied human-robot interaction and implicit feedback with a social robot photographer under Prof. Marynel V&#0301zquez.    
     - Developed a deep learning pipeline to read facial expressions and evaluate robot performance in real-time interactions.    
 - Summer 2021: Internship at Omorobot
     - Conducted navigation development on R1mini Pro mobile robot and tested autonomous localization and navigation. 
