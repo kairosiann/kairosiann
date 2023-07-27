@@ -2,6 +2,8 @@
 
 Welcome to my little corner of Github!    
 
+I'm a first-year student at Yale University majoring in Computer Science and Mathematics, with a certificate in Statistics & Data Science.     
+
 This Github is mainly for me store and share some of the CS & Robotics projects I've done over the years.    
     
 🔭 Research Projects:
@@ -22,8 +24,8 @@ This Github is mainly for me store and share some of the CS & Robotics projects 
         - Best Poster at 2022 Stanford Research Conference.    
     
 👯 Internship Experiences:    
-- Summer 2023: Internship at the Vision Lab at Yale University.    
-    - Studied computer vision with Prof. Alex Wong.    
+- Summer 2023: Internship at the [Yale Vision Lab](http://vision.cs.yale.edu) at Yale University.    
+    - Studieed computer vision with GANs and Diffiusion Models under Prof. Alex Wong.
 - Summer 2022: Internship at the [Interactive Machines Group](https://interactive-machines.gitlab.io) at Yale University.    
     - Studied human-robot interaction and implicit feedback with a social robot photographer under Prof. Marynel V&#0301zquez.    
     - Developed a deep learning pipeline to read facial expressions and evaluate robot performance in real-time interactions.    
@@ -31,7 +33,7 @@ This Github is mainly for me store and share some of the CS & Robotics projects 
     - Conducted navigation development on R1mini Pro mobile robot and tested autonomous localization and navigation. 
     - Work: [omo_r1](https://github.com/kairosiann/omo_r1) repository
     
-📫 Contact me at: kairosiann@gmail.com <!-- or https://www.linkedin.com/in/ryan-kim-096649255/ -->
+📫 Contact me at: ryan.h.kim@yale.edu
 
 <!--
 **kairosiann/kairosiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
