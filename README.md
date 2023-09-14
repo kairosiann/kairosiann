@@ -1,10 +1,10 @@
-### Hi! I'm Ryan Hwang Kim 👋
+### Hi! I'm Ryan  Kim 👋
 
 Welcome to my little corner of Github!    
 
-I'm a first-year student at Yale University majoring in Computer Science and Mathematics, with a certificate in Statistics & Data Science.     
+I'm a first-year student at Yale University majoring in Computer Science and Mathematics.
 
-This Github is mainly for me store and share some of the CS & Robotics projects I've done over the years.    
+This Github is mainly for me store some of the CS & Robotics projects I've done over the years.    
     
 🔭 Research Projects:
 - _Development of an autonomously navigating robot capable of conversing and scanning body temperature to help screen for COVID-19._ 
