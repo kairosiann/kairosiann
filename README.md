@@ -17,7 +17,7 @@ This Github is mainly for me store some of the CS & Robotics projects I've done 
     
 - _JARVITS: A Novel Deep Learning IoT Traffic Control System for Efficient Real-time Detection and Control._ 
     <!-- - [[Github Repo]](https://github.com/kairosiann/jarvits)--> 
-    - [Research Paper](https://drive.google.com/file/d/1Tm2k4EpgLP8mtgHhyy_t6bZPivQLj1_1/view)    
+    - [Research Paper]([https://drive.google.com/file/d/1Tm2k4EpgLP8mtgHhyy_t6bZPivQLj1_1/vie](https://ieeexplore.ieee.org/document/10002229))    
     - Relevant Skills: ROS1 Melodic, Ubuntu 18.04, Python, C++.    
     - Notable Awards: 
         - 2023 Regeneron (formerly Intel, Westinghouse) Science Talent Search (STS) Scholar 
