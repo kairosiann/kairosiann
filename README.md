@@ -2,7 +2,7 @@
 
 Welcome to my little corner of Github!    
 
-I'm a first-year student at Yale University majoring in Computer Science and Mathematics.
+I'm a first-year student at Yale University majoring in Computer Science + Mathematics and Global Affairs.
 
 This Github is mainly for me store some of the CS & Robotics projects I've done over the years.    
     
@@ -24,8 +24,10 @@ This Github is mainly for me store some of the CS & Robotics projects I've done 
         - Best Poster at 2022 Stanford Research Conference.    
     
 👯 Internship Experiences:    
+- Summer 2024: Internship at the [Center for AI Safety](https://www.safe.ai) in San Francisco.    
+    - Studieed representation engineering and LLM unlearning methods.    
 - Summer 2023: Internship at the [Yale Vision Lab](http://vision.cs.yale.edu) at Yale University.    
-    - Studieed computer vision with GANs and Diffiusion Models under Prof. Alex Wong.
+    - Studied computer vision with GANs and Diffiusion Models under Prof. Alex Wong.
 - Summer 2022: Internship at the [Interactive Machines Group](https://interactive-machines.gitlab.io) at Yale University.    
     - Studied human-robot interaction and implicit feedback with a social robot photographer under Prof. Marynel V&#0301zquez.    
     - Developed a deep learning pipeline to read facial expressions and evaluate robot performance in real-time interactions.    
