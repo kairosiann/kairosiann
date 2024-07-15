@@ -1,6 +1,6 @@
 ### Hi! I'm Ryan K 👋
 
-Rising sophomore @ Yale, studying [Computer Science + Mathematics](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-mathematics/) and [Global Affairs](https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs/).  
+First-year @ Yale, studying [Computer Science + Mathematics](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-mathematics/) and [Global Affairs](https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs/).  
 
 <details>
     <summary>Work Experience</summary>
@@ -23,11 +23,11 @@ Rising sophomore @ Yale, studying [Computer Science + Mathematics](https://catal
 
     
 <p align='center'> 
-<!-- <a href="" alt="Ryan's Personal Website"><img height="30" src="https://raw.githubusercontent.com/kairosiann/kairosiann/blob/main/icons/website.png"></a>&nbsp;&nbsp;-->
-<!-- <a href="https://www.instagram.com/_09ryan_/" alt="Ryan's Instagram"><img height="30" src="https://raw.githubusercontent.com/kairosiann/kairosiann/blob/main/icons/instagram.png"></a>&nbsp;&nbsp;-->
-<a href="https://www.linkedin.com/in/ryanhwangkim/" alt="Ryan's LinkedIn Profile"><img height="30" src="https://raw.githubusercontent.com/kairosiann/kairosiann/blob/main/icons/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://x.com/kairosiann" alt="Ryan's X Profile"><img height="30" src="https://raw.githubusercontent.com/kairosiann/kairosiann/blob/main/icons/x.png"></a>&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=fVRQn4wAAAAJ&hl=en" alt="Ryan's Google Scholar"><img height="32" src="https://raw.githubusercontent.com/kairosiann/kairosiann/blob/main/icons/google_scholar.png"></a>&nbsp;&nbsp;    
+<!-- <a href="" alt="Ryan's Personal Website"><img height="30" src="/icons/website.png"></a>&nbsp;&nbsp;-->
+<!-- <a href="https://www.instagram.com/_09ryan_/" alt="Ryan's Instagram"><img height="30" src="/icons/instagram.png"></a>&nbsp;&nbsp;-->
+<a href="https://www.linkedin.com/in/ryanhwangkim/" alt="Ryan's LinkedIn Profile"><img height="30" src="/icons/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://x.com/kairosiann" alt="Ryan's X Profile"><img height="30" src="/icons/x.png"></a>&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=O4FmbkAAAAAJ&hl=en&authuser=1" alt="Ryan's Google Scholar"><img height="32" src="/icons/google_scholar.png"></a>&nbsp;&nbsp;    
 
 📫 Contact me at: ryan.h.kim@yale.edu
 
