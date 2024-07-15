@@ -23,11 +23,11 @@ Rising sophomore @ Yale, studying [Computer Science + Mathematics](https://catal
 
     
 <p align='center'> 
-<!-- <a href="" alt="Ryan's Personal Website"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;-->
-<!-- <a href="https://www.instagram.com/_09ryan_/" alt="Ryan's Instagram"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;-->
-<a href="https://www.linkedin.com/in/ryanhwangkim/" alt="Ryan's LinkedIn Profile"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://x.com/kairosiann" alt="Ryan's X Profile"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=fVRQn4wAAAAJ&hl=en" alt="Ryan's Google Scholar"><img height="32" src="https://img.icons8.com/color/512/google-scholar--v3.png"></a>&nbsp;&nbsp;    
+<!-- <a href="" alt="Ryan's Personal Website"><img height="30" src="https://raw.githubusercontent.com/kairosiann/kairosiann/blob/main/icons/website.png"></a>&nbsp;&nbsp;-->
+<!-- <a href="https://www.instagram.com/_09ryan_/" alt="Ryan's Instagram"><img height="30" src="https://raw.githubusercontent.com/kairosiann/kairosiann/blob/main/icons/instagram.png"></a>&nbsp;&nbsp;-->
+<a href="https://www.linkedin.com/in/ryanhwangkim/" alt="Ryan's LinkedIn Profile"><img height="30" src="https://raw.githubusercontent.com/kairosiann/kairosiann/blob/main/icons/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://x.com/kairosiann" alt="Ryan's X Profile"><img height="30" src="https://raw.githubusercontent.com/kairosiann/kairosiann/blob/main/icons/x.png"></a>&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=fVRQn4wAAAAJ&hl=en" alt="Ryan's Google Scholar"><img height="32" src="https://raw.githubusercontent.com/kairosiann/kairosiann/blob/main/icons/google_scholar.png"></a>&nbsp;&nbsp;    
 
 📫 Contact me at: ryan.h.kim@yale.edu
 
