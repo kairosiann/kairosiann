@@ -2,6 +2,8 @@
 
 First-year @ Yale, studying [Computer Science + Mathematics](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-mathematics/) and [Global Affairs](https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs/).  
 
+I'm a driven, creative and analytical thinker deeply interested in artificial intelligence and emerging technologies – both the technical and the greater societal and business impacts. Always curious about how the world works, hoping to understand it and shape it for the better!
+
 <details>
     <summary>Work Experience</summary>
 
@@ -14,7 +16,9 @@ First-year @ Yale, studying [Computer Science + Mathematics](https://catalog.yal
 </details>
 
 <details>
-    <summary>Projects</summary>
+    <summary>Publictions/Projects</summary>
+
+- _Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?_ [arxiv](https://arxiv.org/abs/2407.21792)
 
 - _Development of an autonomously navigating robot capable of conversing and scanning body temperature to help screen for COVID-19._ [IEEE ICCAS 2021](https://ieeexplore.ieee.org/document/9648849)
     
