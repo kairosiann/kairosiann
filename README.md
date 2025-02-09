@@ -21,7 +21,8 @@ I'm a driven, creative, and analytical thinker deeply interested in artificial i
 
 <details>
     <summary>Publictions/Projects</summary>
-- [_Humanity's Last Exam_](https://lastexam.ai/)
+
+- [_Humanity's Last Exam_](https://lastexam.ai)
 
 - [_Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?_ – NeurIPS 2024](https://www.safetywashing.ai)
 
